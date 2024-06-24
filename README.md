@@ -13,3 +13,6 @@ The variable wage is going to be our dependent variable(Y).
 3) Experience: Number of years of work experience. This is a continuous variable; experience is going to be our second independent variable (X2).
 4) Female: If the employee is female or not (Female=1, if not=0).This variable is a binary variable and will be third independent variable(X3). There are 2 levels which are 0 and 1.
 5) Race : Hispanic/ white/ black/ Asian/ others
+
+Methodology:
+The analysis employs regression models and propensity score matching (PSM) to determine wage determinants and address potential selection bias.
